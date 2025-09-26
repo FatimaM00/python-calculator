@@ -64,4 +64,15 @@ while True:
     else:
         print('Please enter correct input among these 1/2/3/4/n')
 
-```
+````
+## My Interpretation
+** What the program does (2-3 lnes):**
+
+**Functions  (inputs → outputs):**
+-add(x,y) → 
+-subtract(x,y) → 
+-multiply(x,y) →
+-divide(x,y) → 
+
+
+**control flow (2-4 lines ):**
